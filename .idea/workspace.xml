@@ -5,15 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe5c1041-cf99-4008-b6c2-caebffe5004e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/as/ConsultarMoneda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/as/GenedorArchivos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/as/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/as/ConsultarApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/as/GeneradorArchivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/as/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/as/Moneda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/as/ConsultarMoneda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/as/GenedorArchivos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/as/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/as/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +25,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Record" />
       </list>
     </option>
   </component>
@@ -41,12 +43,34 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "D:/projects/Challenge-Conversor-Monedas/src/main/java/as/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="as.Main" />
+      <module name="Challenge-Conversor-Monedas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="as.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
